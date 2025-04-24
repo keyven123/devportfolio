@@ -31,11 +31,11 @@ const Home = () => {
     <div  className="overflow-hidden">
         <Hero />
         <About />
-        <Services />
+        {/* <Services /> */}
         <Project />
         <Skills />
-        <Reviews />
-        <Blog />
+        {/* <Reviews /> */}
+        {/* <Blog /> */}
         <Contact />
     </div>
   )
