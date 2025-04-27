@@ -4,7 +4,7 @@ import { FaStar } from 'react-icons/fa';
 
 type Props = {
     review: {
-        name: number;
+        name: string;
         review: string;
         rating: number;
         profession: string;
