@@ -12,8 +12,8 @@ const font = Sora({
 });
 
 export const metadata: Metadata = {
-  title: "Webdev Portfolio",
-  description: "Webdev portfolio with next js",
+  title: "Keyven's Portfolio",
+  description: "Keyven's portfolio with next js",
 };
 
 export default function RootLayout({
