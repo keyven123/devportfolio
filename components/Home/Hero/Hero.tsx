@@ -23,7 +23,7 @@ const Hero = () => {
                     </p>
                     <button data-aos="zoom-in" data-aos-delay="300" className='md:px-8 md:py-2.5 px-6 py-1.5 text-white font-semibold text-sm md:text-lg transition-all duration-200 rounded-lg mt-8 bg-blue-700 hover:bg-blue-900 flex items-center space-x-2'>
                         <span>
-                            <a href="https://drive.google.com/file/d/1IxTxvgkKTXEZA0oc4DZjnDcigeihtrwJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer">
+                            <a href="https://drive.google.com/file/d/1tuOlrjH_utk-3tHbH-gwCp011n3GlWGg/view" target="_blank" rel="noopener noreferrer">
                                 Download CV
                             </a>
                         </span>
